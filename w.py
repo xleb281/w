@@ -1,7 +1,7 @@
 import random 
 import time
-
 import os
+os.system("clear")
 try:
     from colorama import *
 except:
